@@ -1,0 +1,378 @@
+nama_cpu,brand,harga_cpu,socket
+AMD 2650,AMD,59,AM1
+AMD 3850,AMD,79,AM1
+AMD 5350,AMD,104,AM1
+AMD A10-7700K,AMD,547,FM2+
+AMD A10-7850K,AMD,273,FM2+
+AMD A10-9700,AMD,242,AM4
+AMD A10-9700E,AMD,292,AM4
+AMD A12-9800E,AMD,177,AM4
+AMD A4-3300,AMD,85,FM1
+AMD A4-3400,AMD,149,FM1
+AMD A4-4000,AMD,139,FM2
+AMD A4-5300,AMD,93,FM2
+AMD A4-7300,AMD,135,FM2
+AMD A6-5400K,AMD,124,FM2
+AMD A6-7470K,AMD,105,FM2+
+AMD A6-7480,AMD,144,FM2+
+AMD A6-9500,AMD,161,AM4
+AMD A6-9500E,AMD,196,AM4
+AMD A8-6500,AMD,311,FM2
+AMD A8-9600,AMD,213,AM4
+AMD Athlon 200GE,AMD,110,AM4
+AMD Athlon 220GE,AMD,113,AM4
+AMD Athlon 240GE,AMD,113,AM4
+AMD Athlon II X2 220,AMD,26,AM3
+AMD Athlon II X2 240,AMD,29,AM3
+AMD Athlon II X2 250,AMD,184,AM3
+AMD Athlon II X2 255,AMD,130,AM3
+AMD Athlon II X3 435,AMD,159,AM3
+AMD Athlon II X4 620,AMD,203,AM3
+AMD Athlon II X4 620,AMD,59,AM3
+AMD Athlon II X4 630,AMD,91,AM3
+AMD Athlon II X4 630,AMD,52,AM3
+AMD Athlon II X4 635,AMD,65,AM3
+AMD Athlon II X4 640,AMD,64,AM3
+AMD Athlon X4 950,AMD,145,AM4
+AMD FX-6300,AMD,125,AM3+
+AMD FX-8300,AMD,168,AM3+
+AMD FX-8320,AMD,179,AM3+
+AMD FX-8350,AMD,228,AM3+
+AMD FX-8350,AMD,504,AM3+
+AMD FX-9370,AMD,753,AM3+
+AMD FX-9590,AMD,495,AM3+
+AMD Opteron 6320,AMD,269,G34
+AMD Opteron 6328,AMD,1818,G34
+AMD Opteron 6344,AMD,379,G34
+AMD Opteron 6378,AMD,921,G34
+AMD Phenom II X2 550 Black,AMD,200,AM3
+AMD Phenom II X2 555 Black,AMD,294,AM3
+AMD Phenom II X4 820,AMD,74,AM3
+AMD Phenom II X4 830,AMD,74,AM3
+AMD Phenom II X4 975,AMD,172,AM3
+AMD Phenom II X6 1055T,AMD,189,AM3
+AMD Phenom II X6 1090T Black,AMD,478,AM3
+AMD Ryzen 3 1200 (14nm),AMD,255,AM4
+AMD Ryzen 3 1300X,AMD,398,AM4
+AMD Ryzen 3 3200G,AMD,174,AM4
+AMD Ryzen 5 1400,AMD,463,AM4
+AMD Ryzen 5 1500X,AMD,300,AM4
+AMD Ryzen 5 1600 (12nm),AMD,149,AM4
+AMD Ryzen 5 1600 (14nm),AMD,219,AM4
+AMD Ryzen 5 1600X,AMD,315,AM4
+AMD Ryzen 5 2600,AMD,209,AM4
+AMD Ryzen 5 2600X,AMD,244,AM4
+AMD Ryzen 5 3400G,AMD,210,AM4
+AMD Ryzen 5 3600,AMD,361,AM4
+AMD Ryzen 5 3600X,AMD,399,AM4
+AMD Ryzen 7 1700,AMD,350,AM4
+AMD Ryzen 7 1700X,AMD,318,AM4
+AMD Ryzen 7 1800X,AMD,635,AM4
+AMD Ryzen 7 2700,AMD,371,AM4
+AMD Ryzen 7 2700X,AMD,289,AM4
+AMD Ryzen 7 3700X,AMD,329,AM4
+AMD Ryzen 7 3800X,AMD,359,AM4
+AMD Ryzen 7 3800XT,AMD,377,AM4
+AMD Ryzen 9 3900X,AMD,499,AM4
+AMD Ryzen 9 3900XT,AMD,459,AM4
+AMD Ryzen 9 3950X,AMD,709,AM4
+AMD Sempron 145,AMD,59,AM3
+AMD Threadripper 1900X,AMD,409,TRX4
+AMD Threadripper 1920X,AMD,989,TRX4
+AMD Threadripper 1950X,AMD,1155,TRX4
+AMD Threadripper 2920X,AMD,1499,TRX4
+AMD Threadripper 2950X,AMD,589,TRX4
+AMD Threadripper 2970WX,AMD,1030,TRX4
+AMD Threadripper 2990WX,AMD,1699,TRX4
+AMD Threadripper 3960X,AMD,1843,TRX4
+AMD Threadripper 3970X,AMD,2279,TRX4
+AMD Threadripper 3990X,AMD,4015,TRX4
+Intel Atom D2700,Intel,100,BGA437
+Intel Celeron 420,Intel,49,775
+Intel Celeron 430,Intel,75,775
+Intel Celeron 440,Intel,49,775
+Intel Celeron E1200,Intel,70,775
+Intel Celeron E1400,Intel,14,775
+Intel Celeron E3300,Intel,43,775
+Intel Celeron E3500,Intel,21,775
+Intel Celeron G1610,Intel,37,1151
+Intel Celeron G3920,Intel,197,1151
+Intel Celeron G3930,Intel,59,1151
+Intel Celeron G3930,Intel,84,1151
+Intel Celeron G440,Intel,30,1151
+Intel Celeron G4920,Intel,63,1151
+Intel Celeron G4930,Intel,43,1151
+Intel Celeron G530,Intel,69,1155
+Intel Celeron G540,Intel,121,1155
+Intel Celeron G5900,Intel,43,1200
+Intel Celeron G5905,Intel,62,1200
+Intel Celeron G5920,Intel,61,1200
+Intel Celeron G5925,Intel,72,1200
+Intel Core 2 Duo E4300,Intel,97,775
+Intel Core 2 Duo E4400,Intel,108,775
+Intel Core 2 Duo E4600,Intel,204,775
+Intel Core 2 Duo E6320,Intel,198,775
+Intel Core 2 Duo E6400,Intel,98,775
+Intel Core 2 Duo E6420,Intel,149,775
+Intel Core 2 Duo E6420,Intel,133,775
+Intel Core 2 Duo E6550,Intel,177,775
+Intel Core 2 Duo E6550,Intel,49,775
+Intel Core 2 Duo E6700,Intel,204,775
+Intel Core 2 Duo E6700,Intel,149,775
+Intel Core 2 Duo E6750,Intel,87,775
+Intel Core 2 Duo E6850,Intel,249,775
+Intel Core 2 Duo E6850,Intel,129,775
+Intel Core 2 Duo E7200,Intel,80,775
+Intel Core 2 Duo E7300,Intel,28,775
+Intel Core 2 Duo E7300,Intel,11,775
+Intel Core 2 Duo E7400,Intel,129,775
+Intel Core 2 Duo E7400,Intel,175,775
+Intel Core 2 Duo E7500,Intel,99,775
+Intel Core 2 Duo E7500,Intel,113,775
+Intel Core 2 Duo E7600,Intel,129,775
+Intel Core 2 Duo E7600,Intel,149,775
+Intel Core 2 Duo E8300,Intel,119,775
+Intel Core 2 Duo E8400,Intel,140,775
+Intel Core 2 Duo E8400,Intel,29,775
+Intel Core 2 Duo E8400,Intel,40,775
+Intel Core 2 Duo E8600,Intel,105,775
+Intel Core 2 Extreme QX6700,Intel,605,775
+Intel Core 2 Extreme QX6800,Intel,998,775
+Intel Core 2 Extreme QX6850,Intel,904,775
+Intel Core 2 Extreme QX9650,Intel,299,775
+Intel Core 2 Extreme QX9650,Intel,499,775
+Intel Core 2 Extreme QX9775,Intel,1495,771
+Intel Core 2 Extreme X6800,Intel,499,775
+Intel Core 2 Quad Q6600,Intel,518,775
+Intel Core 2 Quad Q6600,Intel,39,775
+Intel Core 2 Quad Q6700,Intel,49,775
+Intel Core 2 Quad Q8200,Intel,53,775
+Intel Core 2 Quad Q8200,Intel,144,775
+Intel Core 2 Quad Q8400,Intel,235,775
+Intel Core 2 Quad Q9300,Intel,167,775
+Intel Core 2 Quad Q9300,Intel,75,775
+Intel Core 2 Quad Q9400,Intel,42,775
+Intel Core 2 Quad Q9450,Intel,295,775
+Intel Core 2 Quad Q9505,Intel,249,775
+Intel Core 2 Quad Q9550,Intel,293,775
+Intel Core 2 Quad Q9650,Intel,138,775
+Intel Core i3-10100,Intel,105,1200
+Intel Core i3-10300,Intel,179,1200
+Intel Core i3-10320,Intel,197,1200
+Intel Core i3-2100,Intel,25,1155
+Intel Core i3-2105,Intel,104,1155
+Intel Core i3-2120,Intel,135,1155
+Intel Core i3-2120T,Intel,133,1155
+Intel Core i3-2125,Intel,143,1155
+Intel Core i3-2130,Intel,95,1155
+Intel Core i3-3210,Intel,283,1155
+Intel Core i3-3220T,Intel,263,1155
+Intel Core i3-3225,Intel,122,1155
+Intel Core i3-3240,Intel,49,1155
+Intel Core i3-3245,Intel,152,1155
+Intel Core i3-3250,Intel,54,1155
+Intel Core i3-4130,Intel,164,1150
+Intel Core i3-4130T,Intel,299,1150
+Intel Core i3-4330,Intel,395,1150
+Intel Core i3-4370,Intel,148,1150
+Intel Core i3-540,Intel,179,1156
+Intel Core i3-550,Intel,173,1156
+Intel Core i3-6098P,Intel,336,1151
+Intel Core i3-6100,Intel,196,1151
+Intel Core i3-6100,Intel,155,1151
+Intel Core i3-6100T,Intel,123,1151
+Intel Core i3-6320,Intel,573,1151
+Intel Core i3-7100,Intel,94,1151
+Intel Core i3-7100T,Intel,425,1151
+Intel Core i3-7320,Intel,270,1151
+Intel Core i3-7350K,Intel,148,1151
+Intel Core i3-8100,Intel,139,1151
+Intel Core i3-8100T,Intel,132,1151
+Intel Core i3-8300,Intel,155,1151
+Intel Core i3-8300T,Intel,154,1151
+Intel Core i3-8350K,Intel,194,1151
+Intel Core i3-9100,Intel,144,1151
+Intel Core i3-9100F,Intel,118,1151
+Intel Core i3-9300,Intel,195,1151
+Intel Core i3-9350K,Intel,331,1151
+Intel Core i3-9350KF,Intel,161,1151
+Intel Core i5-10400,Intel,179,1200
+Intel Core i5-10400F,Intel,173,1200
+Intel Core i5-10500,Intel,239,1200
+Intel Core i5-10600,Intel,261,1200
+Intel Core i5-10600K,Intel,260,1200
+Intel Core i5-10600KF,Intel,322,1200
+Intel Core i5-2320,Intel,249,1155
+Intel Core i5-2380P,Intel,150,1155
+Intel Core i5-2400,Intel,203,1155
+Intel Core i5-2400S,Intel,172,1155
+Intel Core i5-3330S,Intel,205,1155
+Intel Core i5-3340,Intel,149,1155
+Intel Core i5-3360M,Intel,594,1155
+Intel Core i5-3450,Intel,183,1155
+Intel Core i5-3450S,Intel,95,1155
+Intel Core i5-3470,Intel,85,1155
+Intel Core i5-3470S,Intel,69,1155
+Intel Core i5-3550,Intel,303,1155
+Intel Core i5-3570K,Intel,110,1155
+Intel Core i5-4460,Intel,211,1150
+Intel Core i5-4570,Intel,302,1150
+Intel Core i5-4570S,Intel,401,1150
+Intel Core i5-4570T,Intel,283,1150
+Intel Core i5-4670,Intel,240,1150
+Intel Core i5-4670K,Intel,405,1150
+Intel Core i5-4670S,Intel,621,1150
+Intel Core i5-4690,Intel,175,1150
+Intel Core i5-4690K,Intel,228,1150
+Intel Core i5-6500,Intel,210,1151
+Intel Core i5-6500,Intel,203,1151
+Intel Core i5-6500T,Intel,304,1151
+Intel Core i5-660,Intel,349,1156
+Intel Core i5-6600,Intel,306,1151
+Intel Core i5-6600K,Intel,199,1151
+Intel Core i5-6600T,Intel,294,1151
+Intel Core i5-7400,Intel,181,1151
+Intel Core i5-7400T,Intel,145,1151
+Intel Core i5-750,Intel,405,1156
+Intel Core i5-7500,Intel,239,1151
+Intel Core i5-7500T,Intel,179,1151
+Intel Core i5-760,Intel,144,1156
+Intel Core i5-7600,Intel,269,1151
+Intel Core i5-7600K,Intel,319,1151
+Intel Core i5-7600T,Intel,727,1151
+Intel Core i5-7640X,Intel,234,2066
+Intel Core i5-8400,Intel,227,1151
+Intel Core i5-8400T,Intel,199,1151
+Intel Core i5-8500,Intel,269,1151
+Intel Core i5-8500T,Intel,217,1151
+Intel Core i5-8600,Intel,242,1151
+Intel Core i5-8600K,Intel,223,1151
+Intel Core i5-8600T,Intel,199,1151
+Intel Core i5-9400,Intel,159,1151
+Intel Core i5-9400F,Intel,139,1151
+Intel Core i5-9500,Intel,205,1151
+Intel Core i5-9500F,Intel,236,1151
+Intel Core i5-9600,Intel,233,1151
+Intel Core i5-9600K,Intel,304,1151
+Intel Core i5-9600K,Intel,194,1151
+Intel Core i5-9600KF,Intel,199,1151
+Intel Core i7-10700,Intel,324,1200
+Intel Core i7-10700F,Intel,310,1200
+Intel Core i7-10700K,Intel,329,1200
+Intel Core i7-10700KF,Intel,359,1200
+Intel Core i7-2600,Intel,200,1155
+Intel Core i7-2600K,Intel,304,1155
+Intel Core i7-2600S,Intel,291,1155
+Intel Core i7-2700K,Intel,223,1155
+Intel Core i7-3770,Intel,200,1155
+Intel Core i7-3770K,Intel,327,1155
+Intel Core i7-3770S,Intel,353,1155
+Intel Core i7-3930K,Intel,535,1155
+Intel Core i7-3960X Extreme Edition,Intel,629,2011
+Intel Core i7-3970X Extreme Edition,Intel,599,2011
+Intel Core i7-4770,Intel,354,1150
+Intel Core i7-4770K,Intel,250,1150
+Intel Core i7-4770S,Intel,900,1150
+Intel Core i7-4790,Intel,232,1150
+Intel Core i7-4790K,Intel,278,1150
+Intel Core i7-4790T,Intel,203,1150
+Intel Core i7-4960X Extreme Edition,Intel,1805,2011
+Intel Core i7-6700,Intel,419,1151
+Intel Core i7-6700K,Intel,276,1151
+Intel Core i7-6800K,Intel,359,2011-3
+Intel Core i7-6850K,Intel,450,2011-3
+Intel Core i7-6900K,Intel,1065,2011-3
+Intel Core i7-6950X,Intel,939,2011-3
+Intel Core i7-7700,Intel,349,1151
+Intel Core i7-7700T,Intel,387,1151
+Intel Core i7-7740X,Intel,219,2066
+Intel Core i7-7800X,Intel,699,2066
+Intel Core i7-7820X,Intel,799,2066
+Intel Core i7-8086K,Intel,699,1151
+Intel Core i7-860S,Intel,120,1156
+Intel Core i7-870,Intel,195,1156
+Intel Core i7-8700,Intel,319,1151
+Intel Core i7-8700K,Intel,372,1151
+Intel Core i7-8700T,Intel,298,1151
+Intel Core i7-875K,Intel,353,1156
+Intel Core i7-920,Intel,354,1366
+Intel Core i7-930,Intel,76,1366
+Intel Core i7-940,Intel,349,1366
+Intel Core i7-950,Intel,353,1366
+Intel Core i7-960,Intel,270,1366
+Intel Core i7-965 Extreme Edition,Intel,998,1366
+Intel Core i7-970,Intel,494,1366
+Intel Core i7-9700,Intel,254,1151
+Intel Core i7-9700F,Intel,314,1151
+Intel Core i7-9700K,Intel,399,1151
+Intel Core i7-9700KF,Intel,299,1151
+Intel Core i7-975 Extreme Edition,Intel,549,1366
+Intel Core i7-980,Intel,1105,1366
+Intel Core i7-9800X,Intel,399,2066
+Intel Core i7-980X Extreme Edition,Intel,1106,1366
+Intel Core i9-10850K,Intel,389,1200
+Intel Core i9-10850KA Avengers Limited Edition,Intel,484,1200
+Intel Core i9-10900,Intel,469,1200
+Intel Core i9-10900F,Intel,419,1200
+Intel Core i9-10900K,Intel,539,1200
+Intel Core i9-10900KF,Intel,529,1200
+Intel Core i9-10900X,Intel,562,2066
+Intel Core i9-10920X,Intel,642,2066
+Intel Core i9-10940X,Intel,799,2066
+Intel Core i9-10980XE,Intel,969,2066
+Intel Core i9-7900X,Intel,698,2066
+Intel Core i9-7920X,Intel,675,2066
+Intel Core i9-7960X,Intel,1170,2066
+Intel Core i9-7980XE,Intel,2779,2066
+Intel Core i9-9820X,Intel,536,2066
+Intel Core i9-9900,Intel,399,1151
+Intel Core i9-9900K,Intel,339,1151
+Intel Core i9-9900KF,Intel,329,1151
+Intel Core i9-9900KS,Intel,1965,1151
+Intel Core i9-9900X,Intel,587,2066
+Intel Core i9-9920X,Intel,478,2066
+Intel Core i9-9940X,Intel,799,2066
+Intel Core i9-9960X,Intel,885,2066
+Intel Core i9-9980XE,Intel,1054,2066
+Intel Pentium E2140,Intel,102,775
+Intel Pentium E2180,Intel,134,775
+Intel Pentium E2200,Intel,54,775
+Intel Pentium E2200,Intel,168,775
+Intel Pentium E2220,Intel,37,775
+Intel Pentium E5300,Intel,59,775
+Intel Pentium E5300,Intel,79,775
+Intel Pentium E5400,Intel,75,775
+Intel Pentium E6300,Intel,119,775
+Intel Pentium E6300,Intel,99,775
+Intel Pentium E6500,Intel,95,775
+Intel Pentium E6600,Intel,99,775
+Intel Pentium G2020,Intel,50,1155
+Intel Pentium G2120,Intel,74,1155
+Intel Pentium G2140,Intel,45,1155
+Intel Pentium G3258,Intel,106,1150
+Intel Pentium G3420,Intel,111,1150
+Intel Pentium G3460,Intel,106,1150
+Intel Pentium G3470,Intel,153,1150
+Intel Pentium G4400,Intel,119,1151
+Intel Pentium G4520,Intel,249,1151
+Intel Pentium G4560,Intel,69,1151
+Intel Pentium G4560,Intel,79,1151
+Intel Pentium G4560T,Intel,223,1151
+Intel Pentium G4600,Intel,92,1151
+Intel Pentium G4600,Intel,229,1151
+Intel Pentium G4620,Intel,197,1151
+Intel Pentium G630,Intel,60,1155
+Intel Pentium G630T,Intel,75,1155
+Intel Pentium G640,Intel,30,1155
+Intel Pentium G640T,Intel,83,1155
+Intel Pentium G645,Intel,93,1155
+Intel Pentium G6950,Intel,78,1156
+Intel Pentium G850,Intel,191,1155
+Intel Pentium G860,Intel,72,1155
+Intel Pentium G870,Intel,77,1155
+Intel Pentium Gold G5400,Intel,73,1151
+Intel Pentium Gold G5420,Intel,69,1151
+Intel Pentium Gold G5500,Intel,93,1151
+Intel Pentium Gold G6400,Intel,84,1200
+Intel Xeon E-2124,Intel,211,1151
+Intel Xeon E-2124G,Intel,242,1151
